@@ -8,11 +8,6 @@ Bachelor's degree in Information Systems (2024) and also in Business Administrat
 
 I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 
-I work in the area of ​​software development and software construction.
-
-I am an expert in multiple programming languages ​​and tools:
-Java, Flutter, PL/SQL, SQL, among others.
-
 <br/>
 
 - 🔭 I’m currently working on distributed systems and cloud computing
