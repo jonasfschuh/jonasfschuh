@@ -11,10 +11,6 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 - 🔭 I’m currently working on distributed systems and cloud computing
 - 🌱 I’m currently learning Java Spring Boot, Docker, Quarkus e Amazon Web Services
  
-- 📫 How to reach me: ...
-
-<a href="https://github.com/jonasfschuh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jonas-fernando-schuh/-blue?style=flat-square&logo=linkedin"></a>
-
 - ⚡ Fun fact: ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfschuh&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/jonasfschuh/github-readme-stats)
 
