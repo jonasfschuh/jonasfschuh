@@ -15,7 +15,6 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 
 - 🔭 I’m currently working on distributed systems and cloud computing
 - 🌱 I’m currently learning Java Spring Boot, Docker, Quarkus e Amazon Web Services 
-- ⚡ Fun fact: ...
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
