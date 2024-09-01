@@ -46,6 +46,6 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 ## Github Stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfschuh&layout=compact&langs_count=20&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/jonasfschuh/github-readme-stats)
-<img src='https://github-readme-stats.vercel.app/api?username=jonasfschuh&show_icons=true&theme=dark&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=jonasfschuh&show_icons=true&theme=merko&count_private=true&line_height=40'  align="left" />
 
 
