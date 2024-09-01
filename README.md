@@ -46,4 +46,4 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 ## Github Stats
 ![Jonas Fernando Schuh GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasfschuh&show_icons=true&theme=merko&include_all_commits=true&count_private=true&line_height=36)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfschuh&langs_count=20&count_private=true&include_all_commits=true&show_icons=true&theme=dark&layout=compact&hide=c,c%2B%2B,cmake,makefile&line_height=38)](https://github.com/jonasfschuh/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonas Fernando Schuh  WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonasfschuh&layout=compact)](https://github.com/jonasfschuh/github-readme-stats)
