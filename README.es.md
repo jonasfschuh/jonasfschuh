@@ -1,6 +1,6 @@
 ## Hola, soy Jonás Fernando Schuh 👋
 
-- [Inglés](README.md)
+- [English](README.md)
 - [Portugués](README.pt.md)
 - [Español](README.es.md)
 
