@@ -1,4 +1,4 @@
-## Hola, soy Jonás Fernando Schuh 👋
+## Hola, soy Jonas Fernando Schuh 👋
 
 - [English](README.md)
 - [Portugués](README.pt.md)
