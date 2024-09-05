@@ -1,4 +1,5 @@
-## Hi there, I'm Jonas Fernando Schuh 👋     [English](README.md)   [Português](README.pt.md)   [Español](README.es.md)
+## Hi there, I'm Jonas Fernando Schuh 👋     
+[English](README.md)   [Português](README.pt.md)   [Español](README.es.md)
 
 <h3> 👨🏻‍💻 About me </h3>
 
