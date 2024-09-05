@@ -49,7 +49,9 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 
 ## Github Stats
 ![Jonas Fernando Schuh GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasfschuh&show_icons=true&theme=merko&include_all_commits=true&count_private=true&line_height=38)
-{![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfschuh&langs_count=20&count_private=true&include_all_commits=true&show_icons=true&theme=dark&layout=compact&hide=c,c%2B%2B,cmake,makefile&card_width=50)](https://github.com/jonasfschuh/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfschuh&langs_count=20&count_private=true&include_all_commits=true&show_icons=true&theme=dark&layout=compact&hide=c,c%2B%2B,cmake,makefile&card_width=50)](https://github.com/jonasfschuh/github-readme-stats)
+
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonasfschuh&theme=nord_dark)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonasfschuh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff")
 
