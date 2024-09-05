@@ -1,7 +1,5 @@
 ## Hi there, I'm Jonas Fernando Schuh 👋     
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100%&width=300%&section=footer"/>
-
 - [English](README.md)   
 - [Português](README.pt.md)    
 - [Español](README.es.md)
