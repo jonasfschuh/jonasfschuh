@@ -47,6 +47,8 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
 
 ## Github Stats
 ![Jonas Fernando Schuh GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasfschuh&show_icons=true&theme=merko&include_all_commits=true&count_private=true&line_height=38)
