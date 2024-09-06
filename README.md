@@ -54,6 +54,8 @@ I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## Github Stats
 ![Jonas Fernando Schuh GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasfschuh&show_icons=true&theme=merko&include_all_commits=true&count_private=true&line_height=38)
