@@ -8,7 +8,7 @@
 
 I am a software engineer with over 20 years of experience, specialized in backend development with experience building applications for large and small companies. 
 
-Currently focusing on back-end development in Java with microservices architecture.
+Currently focusing on back-end development in Java with microservices architecture. 
 
 I have experience working with technologies like Java, C#, Delphi, Angular, React and many others. 
 
