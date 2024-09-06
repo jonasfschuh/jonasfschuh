@@ -10,7 +10,7 @@ Soy ingeniero de software con más de 20 años de experiencia, especializado en 
         
 Actualmente enfocado en desarrollo backend en Java con arquitectura de microservicios.  
  
-Tengo experiencia trabajando con tecnologías como Java, C#, Delphi, Angular, React y muchas otras.
+Tengo experiencia trabajando con tecnologías como Java, Dart, Kotlin, Angular, React y muchas otras.
 
 Licenciatura en Sistemas de Información (2024) y también en Administración de Empresas (2011).
 
