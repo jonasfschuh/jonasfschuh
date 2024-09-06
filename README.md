@@ -4,7 +4,7 @@
 - [Português](README.pt.md)    
 - [Español](README.es.md)
 
-<h3> 👨🏻‍💻 About me </h3>
+<h3> 👨🏻‍💻 About me </h3> 
 
 I am a software engineer with over 20 years of experience, specialized in backend development with experience building applications for large and small companies. 
       
