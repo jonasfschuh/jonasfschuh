@@ -11,7 +11,7 @@ I am a software engineer with over 20 years of experience, specialized in backen
 Currently focusing on back-end development in Java with microservices architecture.         
     
 I have experience working with technologies like Java, Dart, Kotlin, Angular, React and many others.  
-  
+     
 Bachelor's degree in Information Systems (2024) and also in Business Administration (2011).
    
 I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
