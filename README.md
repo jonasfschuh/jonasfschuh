@@ -16,7 +16,7 @@ Bachelor's degree in Information Systems (2024) and also in Business Administrat
    
 I am an enthusiast of Programming, Electronics, IOT, Robotics, Mechatronics.
 <br/>
-  
+     
 - 🔭 I’m currently working on distributed systems and cloud computing
 - 🌱 I’m currently learning Java Spring Boot, Docker, Quarkus e Amazon Web Services 
 
